@@ -1,0 +1,5 @@
+Hi how are you
+I am Sachin
+I am Python developer
+I would like to code
+Python is a high-level, interpreted programming language known for its simplicity and readability.

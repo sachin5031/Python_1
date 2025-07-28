@@ -1,0 +1,4 @@
+User: Hi, how are you?
+Bot: Hello! I'm doing well, thank you. How can I assist you today?
+User: Can you help me with Python programming?
+Bot: Absolutely! What would you like to know or work on in Python?
