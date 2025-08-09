@@ -9,4 +9,4 @@ from func1 import f1,power
 
 f1()
 square=power(2)#a**2
-print(square(3))#2**2
+print(square(3))#3**2
